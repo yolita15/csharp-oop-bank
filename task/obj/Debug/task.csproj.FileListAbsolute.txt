@@ -1,0 +1,7 @@
+C:\Users\Yo\Desktop\ООП-3-C#\task\task\bin\Debug\task.exe.config
+C:\Users\Yo\Desktop\ООП-3-C#\task\task\bin\Debug\task.exe
+C:\Users\Yo\Desktop\ООП-3-C#\task\task\bin\Debug\task.pdb
+C:\Users\Yo\Desktop\ООП-3-C#\task\task\obj\Debug\task.csprojAssemblyReference.cache
+C:\Users\Yo\Desktop\ООП-3-C#\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\Yo\Desktop\ООП-3-C#\task\task\obj\Debug\task.exe
+C:\Users\Yo\Desktop\ООП-3-C#\task\task\obj\Debug\task.pdb
